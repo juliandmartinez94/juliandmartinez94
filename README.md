@@ -19,6 +19,14 @@ The following **required** functionality is completed:
 - [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
 
+<div>
+    <a href="https://www.loom.com/share/fd3cce60e8f0468bb552ba4c386e1f19">
+    </a>
+    <a href="https://www.loom.com/share/fd3cce60e8f0468bb552ba4c386e1f19">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fd3cce60e8f0468bb552ba4c386e1f19-with-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 I am new to using Xcode so first learning how the IDE is layed out and organized took me some time to understand. 
 
