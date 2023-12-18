@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 I am new to using Xcode so first learning how the IDE is layed out and organized took me some time to understand. 
 
-Favorite Application:
+Favorite Applications:
 1. WhatsApp
    - ability to message people around the world via WiFi 
    - gif stickers used to personlize chats
